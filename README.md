@@ -7,7 +7,7 @@ Web Design for Everybody: Basics of Web Development &amp; Coding Coursera Specia
  
 ## Courses
 - ~~Introduction to HTML5~~
-- Introduction to CSS3
+- ~~Introduction to CSS3~~
 - Interactivity with JavaScript
 - Advanced Styling with Responsive Design
 - Web Design for Everybody Capstone
@@ -17,7 +17,5 @@ Here is a link to the course (https://www.coursera.org/specializations/web-desig
 
 This is a sort off journey covering each course and the projects associated as i progress .( Hence the strike through the courses i finished)
 
-## Intro to HTML5
 
-What i really found incredible about the course was the stress on acessibility. This gives a much better understanding and idea what does a good website consists of. Here is the link to the assignment made for the course  (https://coursera-assessments.s3.amazonaws.com/assessments/1590947963441/44b82b52-cca0-4e88-df2b-ea6a936d260a/web_html.html)
 
