@@ -1,0 +1,116 @@
+/* adding padding and margin to body*/
+body{
+	padding: 10 px;
+	margin: 1%;
+}
+/*styling the header*/
+header{
+	background-color: #848E66;
+	background-image: url("../images/flywheel.jpg");
+	background-size:100%;
+	padding:20px;
+}
+/*change the font color and size for h1 */
+h1{
+	/*font-size: x-large;*/
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: #FFFFFF;
+}
+/*centering the nav links*/
+nav{
+	text-align: center;
+}
+/* styling the nav links and only nav links*/
+nav a{
+
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	margin: 2%;
+	border-radius: 5px;
+	color: #000000;
+	background-color: rgba(218,234,213,0.70);
+	width:150px;
+	/*height:50px;*/
+	padding: 2%;
+	padding-left: 3%;
+
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+}
+
+/*changing background and font of active class*/
+.active{
+   background-color: #FFFFFF;
+   color: #A020F0;
+}
+/*elements should be side by side for left and right class . Also change background colour for left*/
+
+.left{
+background-color: #FFFF33;
+float:left;
+width: 24%;
+padding: 5% 0;
+display: inline-block;
+}
+.right{
+	width: 63%;
+	display: inline-block;
+	padding-left: 2%;
+
+}
+/*image in left class : border+centred+spacing*/
+.left img{
+	border: solid 2px #000000;
+	width: 70%;
+	margin: 10%;
+}
+/*----4th week assignment----*/
+
+/* table should be styled using at least four properties*/
+table{
+	margin: 0 auto;
+	table-layout: auto;
+	width: 820px;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	line-height: 150%;
+	text-align: center;
+	border: 1px solid #ffffff;
+}
+/* */
+/*The table headings should have a border, background color, and at least one other property. */
+th{
+	border-top-left-radius:10px;
+	border-top-right-radius:10px; 
+	background: linear-gradient(#0000FF,#808080);
+	color: #ffffff;
+	border: 1px solid #ffffff;
+}
+/*  Style the table so that the text in the first column is left-aligned and the text in the other two columns is centered*/
+th:first-child, td:first-child{
+	text-align: left;
+}
+/*Set the opacity of the table rows to a value between .6 and .8 (make sure it is still visible)*/
+tr{
+		opacity: 0.7;
+
+}
+/*) Change the opacity of a row when it is hovered over */
+tr.header{
+	opacity: 1;
+}
+
+tr:hover{
+	opacity: 1;
+}
+/*The table elements < td > should be styled using at least four properties */
+td{
+	color: #000000;
+	text-shadow: 3px 3px 4px #767613;
+	background-color:#ebf8db;
+	border: 1px solid #ffffff;
+}
