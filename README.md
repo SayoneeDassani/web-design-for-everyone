@@ -10,7 +10,7 @@ Web Design for Everybody: Basics of Web Development &amp; Coding Coursera Specia
 - ~~Introduction to HTML5~~ (https://www.coursera.org/learn/html?specialization=web-design)
 - ~~Introduction to CSS3~~  (https://www.coursera.org/learn/introcss?specialization=web-design)
 - ~~Interactivity with JavaScript~~  (https://www.coursera.org/learn/javascript?specialization=web-design)
-- Advanced Styling with Responsive Design (https://www.coursera.org/learn/responsivedesign?specialization=web-design)
+- ~~Advanced Styling with Responsive Design~~ (https://www.coursera.org/learn/responsivedesign?specialization=web-design)
 - Web Design for Everybody Capstone (https://www.coursera.org/learn/web-design-project)
 
 
